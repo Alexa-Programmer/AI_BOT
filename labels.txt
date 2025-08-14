@@ -1,0 +1,4 @@
+0 Yaz
+1 İlkbahar
+2 Kış
+3 Sonbahar
