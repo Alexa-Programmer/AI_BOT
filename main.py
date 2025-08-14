@@ -90,4 +90,5 @@ Antioksidan açısından güçlü: Hücre yenilenmesini ve cilt sağlığını d
     else:
         await ctx.send("You forgot to upload the image :(")
 
-bot.run('MTMwNTI0NjcyNDY1NDIzOTg3NA.G2y7AL.A6PknLwTMYCD5bErGNlK30VtQbULkNbXuHiRsI')
+
+bot.run(TOKEN)
